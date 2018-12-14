@@ -4,7 +4,7 @@ Boletim informativo enviado por e-mail a um determinado grupo de interessados, t
 
 > Link newsletter: [Newsletter](https://kianelc.github.io/newsletter-gdpr.github.io/)
 
-# Components Newsletter
+## Components Newsletter
 
 > HTML5
 
